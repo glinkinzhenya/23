@@ -6,8 +6,9 @@
 
 const tra = {
     x: 20,
-    y: 20,
-    z: 60
+    y: 70,
+    z: 60,
+    i: 60
 };
 
 const tru = {
